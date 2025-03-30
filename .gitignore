@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Uploads
+uploads/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+
+# Logs
+*.log
+
+# Test files (except sample)
+test-*
+!test-image.jpg
